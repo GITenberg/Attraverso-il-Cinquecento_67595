@@ -1,0 +1,41 @@
+_repo: Attraverso-il-Cinquecento_67595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graf, Arturo
+    birthdate: 1848
+    deathdate: 1913
+    gutenberg_agent_id: '50750'
+    url: http://www.gutenberg.org/2009/agents/50750
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arturo_Graf
+    - https://it.wikipedia.org/wiki/Arturo_Graf
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67595'
+language: it
+pgterms:marc904: https://archive.org/details/attraversoilcin00graf
+pgterms:marc905: 20200908091800graf
+pgterms:marc906: '1916'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Ermanno Loescher,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Mariano, fra, -1531?'
+- !lcsh 'Franco, Veronica, 1546-1591'
+- !lcsh 'Aretino, Pietro, 1492-1556'
+- !lcsh 'Italian literature -- 16th century -- History and criticism'
+- !lcsh 'Pedantry'
+- !lcsh 'Petrarchism'
+- GITenberg
+tableOfContents: 'Petrarchismo ed antipetrarchismo -- Un processo a Pietro Aretino
+  -- I pedanti -- Una cortigiana fra mille: Veronica Franco -- Un buffone di Leone
+  X (Fra Mariano).'
+title: Attraverso il Cinquecento
+url: http://www.gutenberg.org/ebooks/67595
