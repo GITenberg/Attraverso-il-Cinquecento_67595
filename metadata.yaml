@@ -1,5 +1,8 @@
 _repo: Attraverso-il-Cinquecento_67595
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67595-h/images/cover.jpg
 creator:
   author:
     agent_name: Graf, Arturo
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Arturo_Graf
     - https://it.wikipedia.org/wiki/Arturo_Graf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67595#Attraverso-il-Cinquecento
 gutenberg_issued: '2022-03-09'
 identifiers:
   gutenberg: '67595'
